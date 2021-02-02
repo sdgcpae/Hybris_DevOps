@@ -154,3 +154,4 @@ spec:
 		echo 'I am sending a notification with success'
 	}
    }
+}
